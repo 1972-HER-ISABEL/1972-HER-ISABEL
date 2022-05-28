@@ -1,5 +1,5 @@
 {
-    "resendCodeFlow": false,
-    "status": "CANCEL",
-    "success": false
+    "resendCodeFlow": true,
+    "status": "Approved",
+    "success": true
 }
