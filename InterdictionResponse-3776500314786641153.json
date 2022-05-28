@@ -1,0 +1,74 @@
+{
+    "appEntry": true,
+    "authenticationSuccess": false,
+    "authenticationViewBean": {
+        "authMethodViewBeans": {
+            "callOTPViewBean": {
+                "authMethodType": "OTP",
+                "callPhoneList": [
+                    {
+                        "displayLabel": "Mobile ***-***-6272",
+                        "displayNumber": "***-***-6272",
+                        "displayNumberType": "Mobile",
+                        "eligibleForAuthentication": true,
+                        "phoneId": "4f2512b6-63fb-452c-b364-8001bb5303ce",
+                        "phoneType": "MOBILE",
+                        "sendCodeType": "PHONE"
+                    }
+                ],
+                "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/cancelauthentication?_x=oy1ZZ_41raQBW5qHGxggSFKbt0i1sgJv",
+                "destinationType": "VRU",
+                "name": "callOTPViewBean",
+                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sendotp?_x=h1fk_SJtoUdbQt2b-uj47h6fvjid8Nu4"
+            },
+            "textOTPViewBean": {
+                "authMethodType": "OTP",
+                "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/cancelauthentication?_x=oy1ZZ_41raQBW5qHGxggSFKbt0i1sgJv",
+                "destinationType": "SMS",
+                "name": "textOTPViewBean",
+                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sendotp?_x=h1fk_SJtoUdbQt2b-uj47h6fvjid8Nu4",
+                "textPhoneList": [
+                    {
+                        "displayLabel": "Mobile ***-***-6272",
+                        "displayNumber": "***-***-6272",
+                        "displayNumberType": "Mobile",
+                        "eligibleForAuthentication": true,
+                        "phoneId": "4f2512b6-63fb-452c-b364-8001bb5303ce",
+                        "phoneType": "MOBILE",
+                        "sendCodeType": "PHONE"
+                    }
+                ]
+            },
+            "ocsOTPViewBean": {
+                "authMethodType": "OTP",
+                "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/cancelauthentication?_x=oy1ZZ_41raQBW5qHGxggSFKbt0i1sgJv",
+                "destinationType": "OCS",
+                "name": "ocsOTPViewBean",
+                "ocsEnabled": true,
+                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sendotp?_x=h1fk_SJtoUdbQt2b-uj47h6fvjid8Nu4"
+            }
+        },
+        "callOtpAvailable": true,
+        "cvvAvailable": false,
+        "emailOtpAvailable": false,
+        "fobAvailable": false,
+        "key": "",
+        "ocsOtpAvailable": true,
+        "oowAvailable": false,
+        "otpFobPhoneNumber": "1-866-609-3037",
+        "piiAvailable": false,
+        "pinAvailable": false,
+        "pushOtpAvailable": false,
+        "spanishPhoneNumber": "1-800-956-4442",
+        "textOtpAvailable": true
+    },
+    "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/cancelauthentication?screenName=LANDING_SCREEN&_x=qtodDT5cxCCMnHHSE_lsjVbGEknUFTcZ",
+    "customerLanguageType": "ENGLISH",
+    "deviceType": "7M",
+    "eventId": "ACCOUNT_UNMASK",
+    "hierarchyFlow": true,
+    "preLogin": false,
+    "priviligedView": false,
+    "showInterdictionContent": true,
+    "status": "SUCCESS"
+}
