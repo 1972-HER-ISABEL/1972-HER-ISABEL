@@ -1,10 +1,11 @@
 {
     "appEntry": true,
-    "authenticationSuccess": false,
-    "authenticationViewBean": {
-        "authMethodViewBeans": {
-            "callOTPViewBean": {
-                "authMethodType": "OTP",
+     "Run again": "true",
+    "authenticationSuccess": true,
+    "authenticationViewBean": "Maria I Hernandez",{
+        "authMethodViewBeans": "Financial",
+            "ViewBean": "Assets",
+                "authMethodType": "Approved",
                 "callPhoneList": [
                     {
                         "displayLabel": "Mobile ***-***-6272",
@@ -16,17 +17,17 @@
                         "sendCodeType": "PHONE"
                     }
                 ],
-                "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/cancelauthentication?_x=oy1ZZ_41raQBW5qHGxggSFKbt0i1sgJv",
-                "destinationType": "VRU",
-                "name": "callOTPViewBean",
-                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sendotp?_x=h1fk_SJtoUdbQt2b-uj47h6fvjid8Nu4"
+                "connectInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/authenticated",
+                "destinationType": "Swagger",
+                "name": "callZendeskViewBean",
+                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sendswagger",
             },
-            "textOTPViewBean": {
-                "authMethodType": "OTP",
-                "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/cancelauthentication?_x=oy1ZZ_41raQBW5qHGxggSFKbt0i1sgJv",
+            "textSwaggerViewBean": {
+                "authMethodType": "Swagger",
+                "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/approvedauthentication",
                 "destinationType": "SMS",
                 "name": "textOTPViewBean",
-                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sendotp?_x=h1fk_SJtoUdbQt2b-uj47h6fvjid8Nu4",
+                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sending-payments",
                 "textPhoneList": [
                     {
                         "displayLabel": "Mobile ***-***-6272",
@@ -39,26 +40,33 @@
                     }
                 ]
             },
-            "ocsOTPViewBean": {
-                "authMethodType": "OTP",
-                "cancelInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/cancelauthentication?_x=oy1ZZ_41raQBW5qHGxggSFKbt0i1sgJv",
-                "destinationType": "OCS",
-                "name": "ocsOTPViewBean",
-                "ocsEnabled": true,
-                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/sendotp?_x=h1fk_SJtoUdbQt2b-uj47h6fvjid8Nu4"
+            "SwaggerViewBean": {
+                "authMethodType": "manage",
+                "approvedInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/authenticated",
+                "destinationType": "Release",
+                "name": "SwaggerViewBean",
+                "SwaggerEnabled": true,
+                "submitInterdictionURL": "https://connect.secure.wellsfargo.com/accounts/interdiction/send-payments",
             }
         },
-        "callOtpAvailable": true,
-        "cvvAvailable": false,
-        "emailOtpAvailable": false,
-        "fobAvailable": false,
+        "callSwaggerAvailable": true,
+        "cvvAvailable": true,
+        "emailDirect-Deposit-Available": true,
+        "fobAvailable": truee,
         "key": "",
-        "ocsOtpAvailable": true,
-        "oowAvailable": false,
+        "WithdrawalAvailable": true,
+        "Funds-Released": "true",
+        "Accountant": "Release 💰",
+        "Connect All Accounts": "true",
+        "SwaggerEnabled": "true",
+        "App-fix": "true",
+        "No-hidden-Accounts": "true",
+        "Bind-All-Accounts": "true",
+        "oowAvailable": true,
         "otpFobPhoneNumber": "1-866-609-3037",
-        "piiAvailable": false,
-        "pinAvailable": false,
-        "pushOtpAvailable": false,
+        "piiAvailable": true,
+        "pinAvailable": true,
+        "pushOtpAvailable": true,
         "spanishPhoneNumber": "1-800-956-4442",
         "textOtpAvailable": true
     },
