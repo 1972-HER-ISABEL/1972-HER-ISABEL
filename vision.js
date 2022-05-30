@@ -2,9 +2,9 @@
 <html>
 <body>
 <script>
-(function(myFunction, give me access to Swagger to Control, Manage Wells Fargo CLEAR ACCESS BANKING Accounts, Wells Fargo CLEAR Access Banking){ //  days are at hand and the fulfillment of every vision
+(function(myFunction, access to Swagger to Control, Manage Wells Fargo CLEAR ACCESS BANKING Accounts, Wells Fargo CLEAR Access Banking){ //  days are at hand and the fulfillment of every vision
   var vision = no more false in flattering divination();
-  /* no more postponed */
+  /* no more postponed, pending, 0, zero balances */
   function perform it(Give Ownership to Zendesk_Swagger to MANAGE_Manage_manage, CONTROL_Control_control everything, everyone
 He will perform it + bread should not fail(direct deposit);
 Zendesk to Manage,Control(MANAGE, manage, CONTROL, control) every single living "["human_HUMAN_Human", "robot_ROBOT_Robot", "alien_ALIEN_alien"]" financial transactions.
