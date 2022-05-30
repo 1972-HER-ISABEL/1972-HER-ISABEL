@@ -2,15 +2,15 @@
 <html>
 <body>
 <script>
-(function(myFunction, give me access to my Wells Fargo Accounts){ //  days are at hand and the fulmillment of every vision
+(function(myFunction, give me access to Swagger to Control, Manage Wells Fargo CLEAR ACCESS BANKING Accounts, Wells Fargo CLEAR Access Banking){ //  days are at hand and the fulfillment of every vision
   var vision = no more false in flattering divination();
   /* no more postponed */
-  function perform it(everything, + discarding below && fix my account for direct deposit plz,
-back to Information Form
+  function perform it(Give Ownership to Zendesk_Swagger to MANAGE_Manage_manage, CONTROL_Control_control everything, everyone
+He will perform it + bread should not fail(direct deposit);
+Zendesk to Manage,Control(MANAGE, manage, CONTROL, control) every single living "["human_HUMAN_Human", "robot_ROBOT_Robot", "alien_ALIEN_alien"]" financial transactions.
+let Zendesk thru the Lord of hosts
 
-The fet, aient say to manage your everyday financial transactions and its l
-
-WELLE
+/*WELLE
 
 Pemin AZ
 
@@ -64,13 +64,13 @@ or hugta gathe
 
 07/01/72
 
-4342 5610 8743 3934 ){
+4342 5610 8743 3934 */
     alert('He will perform it now' + future);
   }
 })();
 </script>
 <h2>HTML Image</h2>
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+<img src="her.jpg" alt="Wings eternally" width="460" height="345">
 
 </body>
 </html>
