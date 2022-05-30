@@ -1,0 +1,12 @@
+<xs:element name="Banking, 🍞">
+
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name="🏦" type="access_ACCESS accounts_ACCOUNTS" />
+    <xs:element name="Identify" type=""/>
+    <xs:element name="IBM" type="MANAGER_manager"/>
+    <xs:element name="Fiber" type="CONTROL_control"/>
+  </xs:sequence>
+</xs:complexType>
+
+</xs:element>
